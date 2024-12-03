@@ -33,3 +33,4 @@ spawn_protection_radius: 150  # Радиус защиты спавна (в бл�
 ```yaml
 spawnprotection.use
 ```
+Подробнее о командах: #commands.md

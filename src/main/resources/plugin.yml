@@ -1,0 +1,12 @@
+name: SpawnProtectionPlugin
+version: 1.0
+main: me.justkeel.spawnProtectionPlugin.SpawnProtectionPlugin
+api-version: 1.16
+commands:
+  spawnprotection:
+    description: Управление защитой спавна
+    usage: /spawnprotection <command>
+permissions:
+  spawnprotection.use:
+    description: Разрешение на использование команды защиты спавна
+    default: op
